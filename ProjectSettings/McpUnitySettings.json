@@ -1,0 +1,9 @@
+{
+    "Port": 3000,
+    "RequestTimeoutSeconds": 10,
+    "AutoStartServer": true,
+    "EnableInfoLogs": true,
+    "NpmExecutablePath": "",
+    "AllowRemoteConnections": true,
+    "Host": "127.0.0.1"
+}
